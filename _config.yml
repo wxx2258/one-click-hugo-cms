@@ -103,7 +103,3 @@ theme: landscape
 deploy:
   type: ''
 
-netlify_cms:
-  backend:
-    name: git-gateway
-    branch: main
