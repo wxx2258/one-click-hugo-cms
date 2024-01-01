@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: master # 或你使用的分支名称
+  branch: main # 或你使用的分支名称
 
 media_folder: "source/images" # 媒体文件的存储位置
 public_folder: "/images"
